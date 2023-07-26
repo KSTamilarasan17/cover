@@ -145,7 +145,7 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-![Output](./out.png)
+![Output](./final.png)
 
 ## HTML VALIDATOR
 ![HTML VALIDATOR](./valid.png)
